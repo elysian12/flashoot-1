@@ -51,9 +51,15 @@ export default function Home() {
             <br />
             Complete shoots, upload your work, and get paid promptly.
           </p>
-          <button className="bg-black text-red-500 border border-red-500 px-6 py-3 rounded-full text-lg sm:text-xl lg:text-2xl transition ease-in-out duration-300 hover:bg-red-500 hover:text-white">
-            Partner Today
-          </button>
+          <a
+            href="https://play.google.com/store/apps/details?id=com.flashoot.partner"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <button className="bg-black text-red-500 border border-red-500 px-6 py-3 rounded-full text-lg sm:text-xl lg:text-2xl transition ease-in-out duration-300 hover:bg-red-500 hover:text-white">
+              Partner Today
+            </button>
+          </a>
         </section>
       </div>
 
@@ -76,8 +82,8 @@ export default function Home() {
             </div>
             <p>
               Create an account with your details and upload verification
-              documents. Once approved, you&apos;ll receive a confirmation email and
-              become an official partner.
+              documents. Once approved, you&apos;ll receive a confirmation email
+              and become an official partner.
             </p>
           </div>
           <div className="text-center max-w-xs">
@@ -179,7 +185,11 @@ export default function Home() {
           499 onboarding fee, reimbursed to your wallet upon successful
           registration.
         </p>
-        <a href="https://rzp.io/l/1fXRLn4Hix" target="_blank" rel="noopener noreferrer">
+        <a
+          href="https://rzp.io/l/1fXRLn4Hix"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           <button className="bg-red-500 px-6 py-3 rounded text-lg sm:text-xl lg:text-2xl w-[100%]">
             Pay Rs. 499 Today
           </button>
@@ -241,7 +251,7 @@ export default function Home() {
                   <p className="text-xs">ios</p>
                 </a>
                 <a
-                  href="#"
+                  href="https://play.google.com/store/apps/details?id=com.flashoot.partner"
                   className="w-[100px] h-[35px] flex items-center justify-center bg-black p-[10px, 16px, 10px, 16px] rounded-[100px] gap-2 border-[1px] border-gray-200"
                 >
                   <FaAndroid size={14} />

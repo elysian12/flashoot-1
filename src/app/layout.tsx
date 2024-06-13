@@ -6,8 +6,7 @@ const inter = DM_Sans({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Flashoot",
-  description: ```
-  Flashoot Partner: Your Gateway to Capturing Unforgettable Moments
+  description: `Flashoot Partner: Your Gateway to Capturing Unforgettable Moments
 
 Flashoot Partner is the go-to app for professional reelmakers looking to expand their business and connect with clients who need top-notch video content for their special occasions. Whether you're a seasoned videographer or just starting out, Flashoot Partner is the perfect platform to showcase your skills, manage bookings, and grow your clientele.
 
@@ -44,9 +43,7 @@ Aspiring Reelmakers: Kickstart your career by gaining exposure and building a re
 
 Download Flashoot Partner and start accepting bookings to create unforgettable videos. Grow your business, showcase your talent, and be a part of capturing life's most precious moments.
 
-Flashoot Partner: Your Gateway to Capturing Unforgettable Moments
-
-```,
+Flashoot Partner: Your Gateway to Capturing Unforgettable Moments`,
 };
 
 export default function RootLayout({
