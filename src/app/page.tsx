@@ -76,7 +76,7 @@ export default function Home() {
             </div>
             <p>
               Create an account with your details and upload verification
-              documents. Once approved, you'll receive a confirmation email and
+              documents. Once approved, you&apos;ll receive a confirmation email and
               become an official partner.
             </p>
           </div>
@@ -103,7 +103,7 @@ export default function Home() {
             <p>
               Arrive on time with your gear, understand client needs, and
               deliver high-quality work. Upload the final files for client
-              review; once approved, you'll receive prompt payment.
+              review; once approved, you&apos;ll receive prompt payment.
             </p>
           </div>
         </div>
